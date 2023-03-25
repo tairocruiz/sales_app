@@ -1,9 +1,9 @@
 <?php
 $con = new mysqli('127.0.0.1', 'root', '', 'sales_app');
 if (isset($_POST['submit'])) {
-    
-}
 
+}
+// staged
 ?>
 <!DOCTYPE html>
 <html lang="en">
